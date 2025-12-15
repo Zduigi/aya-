@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Aya!
-<a href="#"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href="#"><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href="https://www.linkedin.com/in/aya-gamal/" target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href="https://github.com/Zduigi" target="_blank"><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
 <br/><br/>
 
@@ -8,10 +8,11 @@ I am an **Information Technology student specialized in Software Development**.
 I enjoy learning how software systems work, solving problems, and building applications step by step 💻🛠️.  
 I love exploring new technologies and improving my skills through practice and projects.
 
-<br/>
-<br/>
+<br/><br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+---
 
 ### 🧐 More About Me:
 
@@ -24,7 +25,7 @@ I love exploring new technologies and improving my skills through practice and p
 - 💬 &nbsp; Ask me about programming basics, I’m happy to learn together
 - 🚀 &nbsp; My goal is to become a **Professional Software Engineer**
 
-<br>
+---
 
 ### 🔨 Languages and Tools:
 <a href="#"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42px"/></a>
@@ -38,15 +39,24 @@ I love exploring new technologies and improving my skills through practice and p
 
 <br><br>
 
+---
+
 ### 📊 Github Stats
-<a href="#">
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Zduigi&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zduigi&layout=compact)
 
-</a>
-
-<br>
+---
 
 ### 🛠️ My Projects
 > Projects will be added soon as I continue learning and building 🚀
+
+- [aya-gamal](https://github.com/Zduigi/aya-gamal) - My first practice project
+- [Thaiane](https://github.com/Zduigi/Thaiane) - Forked project for learning
+- [rahul-jha98](https://github.com/Zduigi/rahul-jha98) - Forked practice repository
+- [aya-](https://github.com/Zduigi/aya-) - Ongoing project
+
+---
+
+### 📫 Contact Me
+- LinkedIn: [Aya Gamal](https://www.linkedin.com/in/aya-gamal/)
+- GitHub: [Zduigi](https://github.com/Zduigi)
